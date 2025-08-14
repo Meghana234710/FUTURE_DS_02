@@ -14,18 +14,31 @@ This project uses the "Facebook Ad Campaign" dataset from Kaggle. Each record co
 ## Column Descriptions & Significance
 Column	Description	Significance
 ad_id	Unique identifier for each ad	Distinguishes individual ads
+
 reporting_start	Reporting period start date	Identifies campaign timeline
+
 reporting_end	Reporting period end date	Identifies campaign timeline
+
 campaign_id	Company’s internal campaign ID	Groups ads under a single campaign
+
 fb_campaign_id	Facebook’s campaign tracking ID	Groups ads from Facebook’s perspective
+
 age	Age group targeted by the ad (e.g., 30-34, 35-39)	Enables demographic analysis
+
 gender	Gender of the target audience (M/F)	Enables gender-based analysis
+
 interest1, interest2, interest3	Codes for audience interest categories as described in Facebook profiles	Used to segment audience types and measure ad performance
+
 impressions	Total number of times the ad was shown	Measures reach of the ad
+
 clicks	Number of clicks received by the ad	Indicates engagement level
+
 spent	Amount spent ($) on running the ad	Used to compute ROI and CPC
+
 total_conversion	Total number of inquiries/leads after seeing the ad	Measures effectiveness of ad in generating interest
+
 approved_conversion	Number of leads that converted to sales or target action	Key indicator of campaign success
+
 Data Cleaning & Preprocessing
 
 
