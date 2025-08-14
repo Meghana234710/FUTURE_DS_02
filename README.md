@@ -1,5 +1,5 @@
-# FUTURE_DS_02
-## Social Media Campaign Performance Tracker
+### FUTURE_DS_02
+# Social Media Campaign Performance Tracker
 # Overview
 This repository contains the solution for Future Interns Data Science & Analytics Task 2, which involved designing and analyzing a Social Media Campaign Performance Tracker dashboard. The dashboard visualizes and interprets key metrics using a Facebook Ads dataset, providing actionable recommendations for future marketing campaigns.
 
